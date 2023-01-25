@@ -1,1 +1,1 @@
-web: ruby v2.0.arb
+web: ruby v2.0.rb
